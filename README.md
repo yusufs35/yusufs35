@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, React Native, NodeJs, NestJs, VueJs, C#, PHP, JS, CSS, HTML**
 
-<p> </p>
+<p>&nbsp;</p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
