@@ -16,7 +16,7 @@
 <p>&nbsp;</p>
 
 ### Blogs posts
-<img src="https://github-readme-medium.vercel.app/?username=ziyasari">
+<a href="https://medium.com/@ziyasari"><img src="https://github-readme-medium.vercel.app/?username=ziyasari"></a>
 
 <p>&nbsp;</p>
 
