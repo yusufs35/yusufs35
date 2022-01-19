@@ -30,7 +30,7 @@
 <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex; justify-content: space-between; gap:50px"> 
+<div align="left" style="display:flex; justify-content: space-between; gap:50px"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"  title=".NET"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  title="JAVASCRIPT"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;
@@ -56,7 +56,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"  title="FIREBASE"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"   title="WEBPACK"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"  title="APACHE CORDOVA"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="50" height="50"/> </a>
-</p>
+</div>
 
 <p>&nbsp;</p>
 
