@@ -4,6 +4,11 @@
 
 <h3 align="center">Full Stack Web Developer</h3>
 
+<p align="justify">I'm a father, son, husband, volunteer, full stack developer. I'm 42 years old, working in IT world since 1996. Graduated from Marmara University, Computer Science, working as instructor and full stack web developer. My favorite programming languages are C# and Javascript. Now working on a mobile application which is developed with React Native project.</p>
+
+<p>&nbsp;</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziya3435&label=Profile%20views&color=0e75b6&style=flat" alt="ziya3435" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziya3435" alt="ziya3435" /></a> </p>
