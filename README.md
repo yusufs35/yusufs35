@@ -30,7 +30,7 @@
 <p>&nbsp;</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="display:flex; justify-content: space-between"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"  title=".NET"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  title="JAVASCRIPT"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;
