@@ -1,6 +1,6 @@
 <img src="https://github.com/ziya3435/ziya3435/blob/main/banner.jpg?raw=true">
 
-<h1 align="center">Hi 👋, I'm Ziya Sarı</h1>
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="center">Full Stack Web Developer</h3>
 
@@ -9,26 +9,26 @@
 <p>&nbsp;</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziya3435&label=Profile%20views&color=0e75b6&style=flat" alt="ziya3435" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziya3435&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziya3435" alt="ziya3435" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziya3435" alt="" /></a> </p>
 
 <ul>
-  <li>🔭 I’m currently working on <b>Blue Rental Cars Mobile App</b></li>
-  <li>📝 I regularly write articles on https://medium.com/@ziyasari</li>
+  <li>🔭 I’m currently working on <b>Safe & Fast Cars project</b></li>
+  <li>📝 I regularly write articles on https://medium.com/@code4dev</li>
   <li>💬 Ask me about <b>React, React Native, NodeJs, NestJs, VueJs, C#, PHP, JS, CSS, HTML</b></li>
 </ul>
 <p>&nbsp;</p>
 
 <h3 align="left">Latest blog post:</h3>
-<a href="https://medium.com/@ziyasari"><img src="https://github-readme-medium.vercel.app/?username=ziyasari"></a>
+<a href="https://medium.com/@code4dev"><img src="https://github-readme-medium.vercel.app/?username=code4dev"></a>
 
 <p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ziyasari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyasari" height="30" width="40" /></a>
-<a href="https://medium.com/@ziyasari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ziyasari" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/zsari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://medium.com/@code4dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="60" width="80" /></a>
 <a href="https://www.hackerrank.com/sariziya3435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sariziya3435" height="60" width="80" /></a>
 <a href="https://www.leetcode.com/sariziya3435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sariziya3435" height="60" width="80" /></a>
 </p>
@@ -68,8 +68,8 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ziya3435&show_icons=true&locale=en" alt="ziya3435" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ziya3435&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziya3435&" alt="ziya3435" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziya3435&" alt="" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziya3435&show_icons=true&locale=en&layout=compact" alt="ziya3435" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziya3435&show_icons=true&locale=en&layout=compact" alt="" /></p>
