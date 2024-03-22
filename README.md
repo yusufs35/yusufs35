@@ -1,4 +1,4 @@
-<img src="https://github.com/yusufs3435/yusufs3435/blob/main/github-bg.jpg?raw=true">
+<img src="https://github.com/yusufs35/yusufs35/blob/main/github-bg.jpg">
 
 <h1 align="center">Hi 👋</h1>
 
