@@ -65,8 +65,8 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ziya3435&show_icons=true&locale=en" alt="" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufs3435&show_icons=true&locale=en" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziya3435&" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufs3435&" alt="" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziya3435&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufs3435&show_icons=true&locale=en&layout=compact" alt="" /></p>
