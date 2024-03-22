@@ -1,34 +1,33 @@
-<img src="https://github.com/ziya3435/ziya3435/blob/main/banner.jpg?raw=true">
+<img src="https://github.com/yusufs3435/yusufs3435/blob/main/github-bg.jpg?raw=true">
 
 <h1 align="center">Hi 👋</h1>
 
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="justify">I'm a father, son, husband, volunteer, full stack developer. I'm 42 years old, working in IT world since 1996. Graduated from Marmara University, Computer Science, working as instructor and full stack web developer. My favorite programming languages are C# and Javascript. Now working on a mobile application which is developed with React Native project.</p>
+<p align="justify">I'm a father, son, husband, volunteer, full stack developer. I've been working in the field of IT since 1996. Graduated from Marmara University, Computer Science, working as instructor and full stack web developer. My favorite programming languages are C# and Javascript.</p>
 
 <p>&nbsp;</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziya3435&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufs3435&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziya3435" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufs3435" alt="" /></a> </p>
 
 <ul>
-  <li>🔭 I’m currently working on <b>Safe & Fast Cars project</b></li>
-  <li>📝 I regularly write articles on https://medium.com/@code4dev</li>
-  <li>💬 Ask me about <b>React, React Native, NodeJs, NestJs, VueJs, C#, PHP, JS, CSS, HTML</b></li>
+  <li>📝 I regularly write articles on https://medium.com/@yusufs35</li>
+  <li>💬 Ask me about <b>NextJS, React, React Native, NodeJs, NestJs, VueJs, C#, PHP, JS, CSS, HTML</b></li>
 </ul>
 <p>&nbsp;</p>
 
 <h3 align="left">Latest blog post:</h3>
-<a href="https://medium.com/@code4dev"><img src="https://github-readme-medium.vercel.app/?username=code4dev"></a>
+<a href="https://medium.com/@yusufs35"><img src="https://github-readme-medium.vercel.app/?username=yusufs35"></a>
 
 <p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zsari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://medium.com/@code4dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="60" width="80" /></a>
+<a href="https://www.linkedin.com/in/yusufs35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://medium.com/yusufs35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="60" width="80" /></a>
 </p>
 
 <p>&nbsp;</p>
